@@ -1,5 +1,5 @@
 /*
- * Name: John Chiero, Nanak Barring, 
+ * Name: John Chiero, Nanak Barring, Victor Alvarez
  * Date: 02/19/2026
  * Program: Course Grades Analyzer - reads CSV grade totals and analyzes A percentages.
  */
